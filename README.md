@@ -14,7 +14,7 @@ website | font-family | font-size | line-height | font-weight | color | backgrou
 [简书](http://www.jianshu.com/)|"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif|16px|1.7|normal|#2f2f2f|#FFF
 [Typo.css](http://typo.sofi.sh/)|PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans|*1em*|1.8|300|#333|#FFF
 [漢字標準格式](https://css.hanzi.co/manual/sass-api)|"Biaodian Pro Sans CNS","Helvetica Neue",Helvetica,Arial,"Zhuyin Heiti","Han Heiti",sans-serif|16px|1.7|*undefined*|#222|#f7f6f5
-[WANDERER Books](http://binb.tw/)|serif|*undefined*|*1.8em*|*undefined*|*undefined*|#f7f7f7
+[WANDERER Books](http://binb.tw/)|'Open Sans'|13pt|22px|300|#5a5a5a|#f7f7f7
 [Type is Beautiful](http://www.typeisbeautiful.com/)|"Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif|16px|1.6|normal|#5c5c5c|#f8f8f5
 [IPN](https://ipn.li)|'Avenir Next', 'Avenir', 'Helvetica Neue', 'Helvetica', 'Lantinghei SC', 'Hiragino Sans GB', sans-serif|16px|1.6|*undefined*|#333333|#FFF
 
