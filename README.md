@@ -1,6 +1,6 @@
 # websafe-font
 font-family / font-size / line-height / color / background-color / letter-spacing of reading friendly websites   
-本markdown文档记录了一系列「阅读友好网页」的网络安全字体相关 css 属性
+本markdown文档记录了一系列「阅读友好」网页的网络安全字体相关 css 属性  
 ***
 ## why do i need it
 相信我，中文排版和英文排版是两个概念。  
@@ -18,6 +18,7 @@ website | font-family | font-size | line-height | font-weight | color | backgrou
 [Type is Beautiful](http://www.typeisbeautiful.com/)|"Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif|16px|1.6|normal|#5c5c5c|#f8f8f5
 [IPN](https://ipn.li)|'Avenir Next', 'Avenir', 'Helvetica Neue', 'Helvetica', 'Lantinghei SC', 'Hiragino Sans GB', sans-serif|16px|1.6|*undefined*|#333333|#FFF
 [http://liwei.life/](http://liwei.life/)|Merriweather, Georgia, serif|1rem|1.75|*undefined*|#1a1a1a|#FFF
+[https://blog.quyi.de/](https://blog.quyi.de/)|"Lora", "Georgia", "Xin Gothic", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif|18px|1.62|400|#444443|#FFF
 
 ***
 ## license
