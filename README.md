@@ -1,6 +1,7 @@
 # websafe-font
 font-family / font-size / line-height / color / background-color / letter-spacing of reading friendly websites   
 本markdown文档记录了一系列「阅读友好」网页的网络安全字体相关 css 属性  
+*测试分辨率1920*1200*
 ***
 ## why do i need it
 相信我，中文排版和英文排版是两个概念。  
@@ -10,7 +11,7 @@ website | font-family | font-size | line-height | font-weight | color | backgrou
 :------:|:-----------:|:---------:|:-----------:|:-----:|:----------------:|:-----------:
 [flipboard](https://flipboard.com)|"Tiempos",Georgia,serif|16px|1.85em|300|#000|#FFF
 [知乎专栏](https://zhuanlan.zhihu.com/)|-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif|16px|1.7|400|#333|#FFF
-[36氪](http://36kr.com/)|"Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "\5FAE\8F6F\96C5\9ED1", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif|15px|30px|normal|#333|#FFF
+[36氪](http://36kr.com/)|"Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "\5FAE\8F6F\96C5\9ED1", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif|16px|30px|400|#3d464d|#FFF
 [简书](http://www.jianshu.com/)|"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif|16px|1.7|normal|#2f2f2f|#FFF
 [Typo.css](http://typo.sofi.sh/)|PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans|*1em*|1.8|300|#333|#FFF
 [漢字標準格式](https://css.hanzi.co/manual/sass-api)|"Biaodian Pro Sans CNS","Helvetica Neue",Helvetica,Arial,"Zhuyin Heiti","Han Heiti",sans-serif|16px|1.7|*undefined*|#222|#f7f6f5
