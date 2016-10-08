@@ -18,8 +18,7 @@ website | font-family | font-size | line-height | font-weight | color | backgrou
 [WANDERER Books](http://binb.tw/)|'Open Sans'|13pt|22px|300|#5a5a5a|#f7f7f7
 [Type is Beautiful](http://www.typeisbeautiful.com/)|"Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif|1.3em|1.6|normal|#5c5c5c|#f8f8f5
 [IPN](https://ipn.li)|'Avenir Next', 'Avenir', 'Helvetica Neue', 'Helvetica', 'Lantinghei SC', 'Hiragino Sans GB', sans-serif|16px|1.6|*undefined*|#333333|#FFF
-[http://liwei.life/](http://liwei.life/)|Merriweather, Georgia, serif|1rem|1.75|*undefined*|#1a1a1a|#FFF
-[https://blog.quyi.de/](https://blog.quyi.de/)|"Lora", "Georgia", "Xin Gothic", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif|18px|1.62|400|#444443|#FFF
+[图月志](http://iconmoon.com/blog2/)|"Lora", "Georgia", "Xin Gothic", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif|18px|1.62|400|#444443|#FFF
 
 ***
 ## license
