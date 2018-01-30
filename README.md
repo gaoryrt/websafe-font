@@ -1,20 +1,20 @@
 # websafe-font
-font-family / font-size / line-height / color / background-color / letter-spacing of reading friendly websites
+font-family / font-size / line-height / color / letter-spacing of reading friendly websites
 
-记录了一系列「阅读友好」网页的网络安全字体相关 css 属性
+记录了一系列「中文阅读友好」网页的网络安全字体相关 css 属性
 
 *分辨率1920x1080，测试时间为最近更新时间*
 
-针对移动端中文字体设置，可参考[腾讯 AlloyTeam 的相关文章](https://github.com/AlloyTeam/Mars/blob/master/solutions/font-family.md)，设置
+针对移动端中文字体设置，可参考[腾讯 AlloyTeam 的相关文章](https://github.com/AlloyTeam/Mars/blob/master/solutions/font-family.md)，设置 `font-family`：
 
-`font-family: -apple-system, BlinkMacSystemFont, "PingFang SC","Helvetica Neue",STHeiti,"Microsoft Yahei",Tahoma,Simsun,sans-serif;`
+`-apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;`
 ***
 ## [flipboard](https://flipboard.com)
 [《热血无赖》、《逃生》进入Xbox12月金会员免费阵容](https://flipboard.com/@flipboardcn/%E7%A7%91%E6%8A%80-h8nis64pz/%E3%80%8A%E7%83%AD%E8%A1%80%E6%97%A0%E8%B5%96%E3%80%8B%E3%80%81%E3%80%8A%E9%80%83%E7%94%9F%E3%80%8B%E8%BF%9B%E5%85%A5xbox12%E6%9C%88%E9%87%91%E4%BC%9A%E5%91%98%E5%85%8D%E8%B4%B9%E9%98%B5%E5%AE%B9/a-l2JmBfIPSjChfuufxxrqIA%3Aa%3A8854535-0042494de0%2Fg-cores.com)
 
 ```
 p {
-    font-family: "Tiempos",Georgia,serif;
+    font-family: "Tiempos", Georgia, serif;
     font-size: 16px;
     line-height: 1.85em;
     font-weight: 400;
@@ -29,7 +29,7 @@ p {
 
 ```
 p {
-    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
     text-rendering: optimizeLegibility;
     line-height: 1.7;
     color: #333;
@@ -41,7 +41,7 @@ p {
 
 ```
 p {
-    font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,STHeitiSC-Light,simsun,\\5B8B\4F53,WenQuanYi Zen Hei,WenQuanYi Micro Hei,"sans-serif";
+    font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, \\5FAE\8F6F\96C5\9ED1, STHeitiSC-Light, simsun, \\5B8B\4F53, WenQuanYi Zen Hei, WenQuanYi Micro Hei, "sans-serif";
     line-height: 30px;
     font-size: 16px;
     font-weight: 400;
@@ -58,7 +58,7 @@ p {
 
 ```
 p {
-    font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     color: #2f2f2f;
     font-size: 16px;
     font-weight: 400;
@@ -87,7 +87,7 @@ p {
 p {
     line-height: 1.7;
     color: #222;
-    font-family: "Biaodian Pro Sans CNS","Helvetica Neue",Helvetica,Arial,"Zhuyin Heiti","Han Heiti",sans-serif;
+    font-family: "Biaodian Pro Sans CNS", "Helvetica Neue", Helvetica, Arial, "Zhuyin Heiti", "Han Heiti", sans-serif;
     font-feature-settings: "liga" 1,"locl" 0;
     font-size: 16px;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -125,7 +125,7 @@ p {
 p {
     line-height: 1.8;
     font-weight: 400;
-    font-family: Apercu,'PingFang SC','Microsoft YaHei',Arial,SimHei,sans-serif;
+    font-family: Apercu, 'PingFang SC', 'Microsoft YaHei', Arial, SimHei, sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
